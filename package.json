@@ -1,0 +1,22 @@
+{
+  "name": "contoso1",
+  "version": "1.0.0",
+  "description": "\"this is my contoso1 project \"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khileshkumar/Contoso1.git"
+  },
+  "author": "khilesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khileshkumar/Contoso1/issues"
+  },
+  "homepage": "https://github.com/khileshkumar/Contoso1#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
